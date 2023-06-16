@@ -23,11 +23,11 @@ I also love paint-by-numbers, coffee, and listening to cyber crime podcasts in m
 ### Research projects I’ve done:
 
 
--- [Published] Malaria in Florida’s Native and Invasive Anoles (don’t worry, it only infects reptiles!) 🦎
+- [Published] Malaria in Florida’s Native and Invasive Anoles (don’t worry, it only infects reptiles!) 🦎
 
 + Bessa, L. B., **Ely, N.** M., Calle, E. K., Lafond, B. J., Counsman, R. P., Loges, L. N., & Doan, T. M. (2020). THE EFFECT OF PLASMODIUM FLORIDENSE ON RELATIVE LEUKOCYTE COUNTS OF ANOLIS SAGREI AND A. CAROLINENSIS IN FLORIDA, USA. *Journal of North American Herpetology*, 42–48. https://doi.org/10.17161/jnah.vi.14260
 
--- [Published] Natural Language Processing for COVID-19 Twitter Data 🐦
+- [Published] Natural Language Processing for COVID-19 Twitter Data 🐦
 
 + M. H. Tsai, **N. Marie Ely** and Y. Wang, "Uncertainty Estimation for Twitter Inference," *2021 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, USA, 2021, pp. 1437-1440, doi: 10.1109/CSCI54926.2021.00024.
 
