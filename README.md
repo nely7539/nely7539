@@ -12,7 +12,7 @@ Currently, I’m living a double life as a data analyst for Florida Polytechnic 
 
 [Cool article showcasing one of my favorite projects!!](https://floridapoly.edu/news/articles/2021/06/062921-intern-ely.php)
 
-There are a few things I’m also passionate about, like my cat, Kelli. 
+There are a few things I’m also passionate about, like my single-eared cat, Kelli. On my remote days, she's the best assistant.
 
 ![](Kelli.jpg)
 
